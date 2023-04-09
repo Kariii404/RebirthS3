@@ -1,0 +1,17 @@
+{
+    "name": "Fire Ball Small",
+    "icon": "",
+    "advancement": "rebirths3:warlock",
+    "category": "patchouli:warlock_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "To craft this use the recipe to the right. This is an essential starter spell for any new or practicing Warlock."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "rebirths3:fire_ball_small_recipe"
+        }
+    ]
+
+}

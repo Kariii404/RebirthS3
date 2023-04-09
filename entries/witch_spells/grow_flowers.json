@@ -1,0 +1,16 @@
+{
+    "name": "Grow Flowers",
+    "icon": "",
+    "advancement": "rebirths3:witch",
+    "category": "patchouli:witch_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A spell to grow flowers around you! using natural ingerdients that gives all the flowers with none of the grass! Use the recipe to the right to get started"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "rebirths3:grow_flowers_recipe"
+        }
+    ]
+}

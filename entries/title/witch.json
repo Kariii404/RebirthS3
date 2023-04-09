@@ -1,0 +1,15 @@
+{
+    "name": "Witch Spells",
+    "icon": "",
+    "category": "patchouli:title_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A witch is a practicer of natural magic using herbs and other natural resources. This path can be learned or naturally gifted to the user. Witches use plants, and natural elements such as water, berries, fruits, vegatables and other naturally obtained resources. To get started with this class craft the Crypt to the right and right click."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "rebirths3:witch_crypt_recipe"
+        }
+    ]
+}
