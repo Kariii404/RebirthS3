@@ -1,0 +1,16 @@
+{
+    "name": "Teleport",
+    "icon": "",
+    "category": "patchouli:warlock_category",
+    "advancement": "rebirths3:warlock",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A simple teleport that works like an ender pearl, you point it in a direction and it goes!"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "rebirths3:warlock_tp_recipe"
+        }
+    ]
+}

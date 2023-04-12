@@ -1,0 +1,15 @@
+{
+    "name": "Alchemist",
+    "icon": "",
+    "category": "patchouli:title_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The potion maker of the world of arcana and magic, this class is all about potion making, use the recipe on the right to get started!"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "rebirths3:alchemist_crypt_recipe"
+        }
+    ]
+}

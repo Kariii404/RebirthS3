@@ -1,0 +1,15 @@
+{
+    "name": "how to use magic",
+    "category": "patchouli:howto_category",
+    "icon": "minecraft:stick",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "It's pretty simple, you unlock spells by getting certain achievements. these spells range from lifestyle to pvp to overall random things. after you unlock an achievement check this book to see your spells and other things you can use for magic and arcana (even potion making if thats what you fancy :D)"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "test"
+        }
+    ]
+}

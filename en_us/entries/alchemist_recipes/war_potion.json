@@ -1,0 +1,16 @@
+{
+    "name": "Potion of War",
+    "icon": "",
+    "category": "patchouli:alchemist_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Ares potion, it gives a very strong buff that mixes potion of the turtle master, strength 2 and speed as well as regen to give you a strong buff, however, this potion takes half your health due to you not being a god, Ares was strong but you have to thing like Athena and use strategy for this to work."
+
+        },
+        {
+            "type": "patchouli:text",
+            "text": "To craft this potion brew a golden apple into a potion of the turtle master."
+        }
+    ]
+}

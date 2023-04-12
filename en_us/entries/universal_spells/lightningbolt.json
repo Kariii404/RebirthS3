@@ -1,0 +1,15 @@
+{
+    "name": "Lightning Bolt",
+    "icon": "",
+    "category": "patchouli:universal_spells",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This one is pretty simple, to summon a lightning bolt craft the recipe to the right"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "rebirths3:lightning_bolt_recipe"
+        }
+    ]
+}

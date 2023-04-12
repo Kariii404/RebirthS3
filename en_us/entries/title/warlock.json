@@ -1,0 +1,15 @@
+{
+    "name": "Warlock",
+    "icon": "",
+    "category": "patchouli:title_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Warlocks are wizards that practice darker magic and arcana. this path can be learned or can be naturally gifted to the user. warlocks are known to use runes and glyphs in their spell casting. use the crafting recipe on the right to create your warlock spell book and get started. Note that some spells require use of a staff."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "rebirths3:warlock_spell_book"
+        }
+    ]
+}
